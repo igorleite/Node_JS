@@ -1,0 +1,26 @@
+{
+  "name": "Node_JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "dependencies": {
+    "arduino-firmata": "^0.3.2",
+    "websocket": "^1.0.18",
+    "johnny-five": "^0.8.58"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igorleite/Node_JS.git"
+  },
+  "author": "igorleite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorleite/Node_JS/issues"
+  },
+  "homepage": "https://github.com/igorleite/Node_JS"
+}
