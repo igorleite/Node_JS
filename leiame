@@ -1,0 +1,13 @@
+pre requisitos para rodar o sistema
+- Servidor Apache
+- Plataforma Node JS
+- Modulos do Node: Websocket, Johnny-Five e Arduino-Firmata
+
+
+utilizando o sistema:
+- deve-se configurar o IP do servidor no arquivo client.js
+- colocar os arquivos na pasta do Apache
+- configurar a porta de leitura que o arduino está conectado no arquivo gaa.js
+- rodar o programa Standard-Firmata no Arduino
+- rodar o arquivo server.js com o Node
+- Abrir o arquivo index.html através do browser utilizando como endereço o ip do servidor
